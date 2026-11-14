@@ -24,7 +24,9 @@ Precio sugerido: 25 USD por curso (puedes ajustarlo según tu mercado).
 
 **Para quién:** principiantes que quieren imprimir camisetas o gorras con DTF.
 **Duración aproximada:** 2 horas, 4 módulos.
-**Lo que se lleva:** un primer transfer listo para planchar.
+**Lo que se lleva:** un primer transfer listo para planchar, con la prensa térmica o con una plancha de ropa.
+
+Este curso está pensado para empezar sin inversión grande: el alumno puede hacer sus primeras pruebas con una plancha de ropa y pasar a prensa térmica cuando quiera producir más.
 
 ### Módulo 1: Entender el DTF
 - Qué es el DTF y en qué se diferencia de la sublimación y la serigrafía.
@@ -46,6 +48,14 @@ Precio sugerido: 25 USD por curso (puedes ajustarlo según tu mercado).
 - Temperatura, tiempo y presión según el fabricante.
 - Enfriar y despegar el film.
 - **Ejercicio:** tu primera prenda terminada, con checklist de revisión.
+
+### Módulo 5: Versión casera con plancha de ropa
+- **Qué sirve y qué no:** la plancha de ropa sirve para pruebas, diseños pequeños y producción ocasional. No reemplaza una prensa térmica en acabado, uniformidad ni durabilidad en lavados frecuentes.
+- **Preparación:** superficie plana y firme (una tabla sobre mesa estable, nunca sobre tela de sofá), plancha sin vapor, papel protector o tela de algodón entre la plancha y el film.
+- **Curado del polvo:** el polvo se cura con la plancha sin vapor, presionando en pequeños tramos y manteniendo el tiempo que indique el fabricante. Sin termómetro, el alumno debe hacer una prueba en retal antes de tocar la prenda.
+- **Transferencia:** presión firme y uniforme en cada tramo, sin mover la plancha en seco sobre el film. Dejar enfriar antes de despegar el film.
+- **Ejercicio:** hacer un transfer pequeño (por ejemplo, 10 x 10 cm) en un retal de prueba y compararlo con una prenda hecha en prensa, anotando las diferencias en tacto y adherencia.
+- **Advertencias de seguridad:** no planchar sobre prendas con poliéster sin prueba previa (puede deformarse o amarillear), mantener el área ventilada y no dejar la plancha encendida sin supervisión.
 
 ---
 
